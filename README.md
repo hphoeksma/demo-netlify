@@ -2,4 +2,4 @@
 
 👉Used for instruction
 
-How to... Netlify... https://henjohoeksma.netlify.com/
+How to... Netlify... https://demo-henjohoeksma.netlify.com/
